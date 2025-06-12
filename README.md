@@ -127,8 +127,6 @@ El Proyecto GITT representa una solución integral y moderna para la gestión de
 
 ✅ **Experiencia de Usuario Optimizada**: Interfaz responsiva e intuitiva que facilita la gestión del inventario para todos los tipos de usuarios.
 
-✅ **Automatización**: Sistema de notificaciones automáticas y recordatorios programados que mejoran la eficiencia operativa.
-
 ### Impacto
 
 El sistema GITT moderniza completamente la gestión de recursos en los Talleres Tecnológicos de FISEI, proporcionando:
